@@ -1,0 +1,9 @@
+.box {
+    width: 125px;
+    height: 125px;
+}
+
+.box:hover {
+    cursor: pointer; 
+    opacity: 80%;
+}

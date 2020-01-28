@@ -1,0 +1,7 @@
+.boxes {
+    display: flex;
+    flex-wrap: wrap;
+    width: 750px;
+    justify-content: center;
+    margin: auto;
+}
